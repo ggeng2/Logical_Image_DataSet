@@ -15,7 +15,7 @@ The datasets in this repository were used to conduct tests for the paper titled 
 ![aff4-l](https://github.com/ggeng2/Logical_Image_Dataset/assets/98377556/9cf8964b-32af-45f0-b840-bf549fcd41b0)
 
 ##### (2) L01
-![L01](https://github.com/ggeng2/Logical_Image_Dataset/assets/98377556/7674272b-109e-4ca3-a1d2-97ec71309df3)
+![L01](https://github.com/ggeng2/Logical_Image_Dataset/assets/98377556/7fde01bd-c2bd-4043-b25a-07a117365f0a)
 
 
 
