@@ -11,10 +11,10 @@ The datasets in this repository were used to conduct tests for the paper titled 
 
 #### Metadata manipulation test results
 
-##### AFF4-L
+##### (1) AFF4-L
 ![aff4-l](https://github.com/ggeng2/Logical_Image_Dataset/assets/98377556/9cf8964b-32af-45f0-b840-bf549fcd41b0)
 
-##### L01
+##### (2) L01
 ![L01](https://github.com/ggeng2/Logical_Image_Dataset/assets/98377556/a9db986c-0a04-4589-bd0a-230433dfe7d6)
 
 
