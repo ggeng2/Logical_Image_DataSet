@@ -6,5 +6,13 @@ The datasets in this repository were used to conduct tests for the paper titled 
 
 ### Appendix
 
-##### L01 file format
+#### L01 file format
+
+![L01_file_format](https://github.com/ggeng2/Logical_Image_Dataset/assets/98377556/2c1d5b7b-3dd7-47c6-8bd4-bfc5f0a9f23f)
+
+#### Metadata manipulation test results
+
+##### AFF4-L
+
+
 
